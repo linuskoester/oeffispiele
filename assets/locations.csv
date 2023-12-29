@@ -1,9 +1,9 @@
 WKT,Name,Beschreibung,OSM,Generated
-POINT (13.2909753 52.5084032),Lietzensee,im Lietzenseepark,"Lietzenseepark, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Germany",True
-POINT (13.3105153 52.508354),Trinitatiskirche,auf dem Karl-August-Platz,"Trinitatiskirche, Karl-August-Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10625, Germany",True
-POINT (13.299376 52.5045554),Spielbrunnen,auf dem Stuttgarter Platz,"Spielbrunnen, Stuttgarter Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Germany",True
-POINT (13.2958998 52.5019553),Ein Beet am Kracauerplatz,auf dem Kracauerplatz,"Kracauerplatz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10629, Germany",True
-POINT (13.3005458 52.4952656),Großer Abenteuerspielplatz,am Hochmeisterplatz,"Spielplatz Hochmeisterplatz - Tausendundeine Nacht, Westfälische Straße, Halensee, Charlottenburg-Wilmersdorf, Berlin, 10709, Germany",True
+POINT (13.2909753 52.5084032),Lietzensee,im Lietzenseepark,"Lietzenseepark, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Germany",False
+POINT (13.3105153 52.508354),Trinitatiskirche,auf dem Karl-August-Platz,"Trinitatiskirche, Karl-August-Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10625, Germany",False
+POINT (13.299376 52.5045554),Spielbrunnen,auf dem Stuttgarter Platz,"Spielbrunnen, Stuttgarter Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Germany",False
+POINT (13.2958998 52.5019553),Ein Beet am Kracauerplatz,auf dem Kracauerplatz,"Kracauerplatz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10629, Germany",False
+POINT (13.3005458 52.4952656),Großer Abenteuerspielplatz,am Hochmeisterplatz,"Spielplatz Hochmeisterplatz - Tausendundeine Nacht, Westfälische Straße, Halensee, Charlottenburg-Wilmersdorf, Berlin, 10709, Germany",False
 POINT (13.3109243 52.4935978),Großer Abenteuerspielplatz,im Preußenpark,"52.49359, 13.31092",False
 POINT (13.3152 52.4992984),Spielplatz,im Olivaer Platz,"Integrativer Spielplatz Olivaer Platz, Olivaer Platz, Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin, 10707, Germany",False
 POINT (13.3395873 52.4889833),Der Bayrische Löwe,auf dem Bayerischen Platz,"Löwen-Denkmal, Grunewaldstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10779, Germany",False
