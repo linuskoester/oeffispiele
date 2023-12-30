@@ -1,6 +1,6 @@
 WKT,Name,Beschreibung,OSM,Generated
-POINT (13.2909753 52.5084032),Lietzensee,im Lietzenseepark,"Lietzenseepark, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Germany",True
-POINT (13.3105153 52.508354),Trinitatiskirche,auf dem Karl-August-Platz,"Trinitatiskirche, Karl-August-Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10625, Germany",True
+POINT (13.2909753 52.5084032),Lietzensee,im Lietzenseepark,"Lietzenseepark, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, Germany",False
+POINT (13.3105153 52.508354),Trinitatiskirche,auf dem Karl-August-Platz,"Trinitatiskirche, Karl-August-Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10625, Germany",False
 POINT (13.299376 52.5045554),Spielbrunnen,auf dem Stuttgarter Platz,"Spielbrunnen, Stuttgarter Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Germany",False
 POINT (13.2958998 52.5019553),Ein Beet am Kracauerplatz,auf dem Kracauerplatz,"Kracauerplatz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10629, Germany",False
 POINT (13.3005458 52.4952656),Großer Abenteuerspielplatz,am Hochmeisterplatz,"Spielplatz Hochmeisterplatz - Tausendundeine Nacht, Westfälische Straße, Halensee, Charlottenburg-Wilmersdorf, Berlin, 10709, Germany",False
@@ -27,8 +27,8 @@ POINT (13.3787574 52.4781882),Storchenbrunnen,auf dem Adolf-Scheidt-Platz,"Adol
 POINT (13.4163979 52.4831256),Naturtheater,im Volkspark Hasenheide,"Freiluftkino Hasenheide, Columbiadamm, Schillerkiez, Neukölln, Berlin, 10965, Germany",False
 POINT (13.3912016 52.4717404),Landebahn,auf dem Tempelhofer Feld,"52.47174, 13.3912",False
 POINT (13.4248219 52.4870919),Tanzende Paar,auf dem Hermannplatz,"Das tanzende Paar, Hermannplatz, Reuterkiez, Neukölln, Berlin, 10967, Germany",False
-POINT (13.4227847 52.4912101),Ziegenskulptur,auf dem Hohenstaufenplatz,"blauer wasserspender, Lachmannstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Germany",False
-POINT (13.4151162 52.4952611),Admiralbrücke,über dem Landwehrkanal,"Admiralbrücke, Admiralstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Germany",False
+POINT (13.4227847 52.4912101),Ziegenskulptur,auf dem Hohenstaufenplatz,"Kämpfende Ziegen, Lachmannstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Germany",False
+POINT (13.4151162 52.4952611),Admiralbrücke,über dem Landwehrkanal,"Admiralbrücke, Admiralstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Germany",False
 POINT (13.4298872 52.4892699),Fritz-Reuter-Brunnen,auf dem Reuterplatz,"Fritz-Reuter-Brunnen, Reuterplatz, Reuterkiez, Neukölln, Berlin, 12047, Germany",False
 POINT (13.4051975 52.4966463),Baerwaldbrücke,,"Baerwaldbrücke, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Germany",False
 POINT (13.4128245 52.4982057),Spielplatz,am Wassertorplatz,"Wassertorplatz, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Germany",False
@@ -45,14 +45,14 @@ POINT (13.4592182 52.5110683),Pinguin-Brunnen,auf dem Boxhagener Platz,"Boxhagen
 POINT (13.4399389 52.513265),Franz-Mehring-Platz,,"Franz Mehring, Rüdersdorfer Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10243, Germany",False
 POINT (13.4429703 52.5110594),Berghain,,"Berghain, Am Wriezener Bahnhof, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10243, Germany",False
 POINT (13.4193427 52.5072913),St.-Michael-Kirche,,"Michaelkirchplatz, Luisenstadt, Mitte, Berlin, Germany",False
-POINT (13.4680451 52.5086194),Siegfried-Hirschmann-Park,,"Siegfried-Hirschmann-Park, Box-Seven, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Germany",False
+POINT (13.4680451 52.5086194),Siegfried-Hirschmann-Park,,"Siegfried-Hirschmann-Park, Freudenberg-Areal, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Germany",False
 POINT (13.4030063 52.5082228),Bundesdruckerei,,"Bundesdruckerei, 18, Kommandantenstraße, Luisenstadt, Kreuzberg, Mitte, Berlin, 10969, Germany",False
 POINT (13.3669779 52.4979683),View Point (Insel),im Nelly-Sachs-Park,"Nelly-Sachs-Park, Schöneberg, Tempelhof-Schöneberg, Berlin, 10783, Germany",False
 POINT (13.4558452 52.4925047),Bundeskriminalamt,,"52.4925, 13.45584",False
 POINT (13.37745 52.4987129),Deutsches Technikmuseum,,"Deutsches Technikmuseum, 9, Trebbiner Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10963, Germany",False
 POINT (13.3432415 52.5022766),Nordbrunnen,am Wittenbergplatz,"Wittenbergplatz, Schöneberg, Tempelhof-Schöneberg, Berlin, 10789, Germany",False
 POINT (13.3364856 52.5046377),Weltkugelbrunnen Wasserklops,bei der Gedächtniskirche,"Weltkugelbrunnen, Tauentzienstraße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10789, Germany",False
-POINT (13.3545817 52.4953019),St. Matthias,,"St. Matthias, Gleditschstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10781, Germany",False
+POINT (13.3545817 52.4953019),St. Matthias,,"St. Matthias, Winterfeldtplatz, Schöneberg, Tempelhof-Schöneberg, Berlin, 10781, Germany",False
 POINT (13.3347153 52.5021958),Los-Angeles-Platz,,"Los-Angeles-Platz, Augsburger Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10789, Germany",False
 POINT (13.3606067 52.5037142),Spielplatz,am Magdeburger Platz,"Magdeburger Platz, Botschaftsviertel, Tiergarten, Mitte, Berlin, 10785, Germany",False
 POINT (13.3762848 52.5092044),Historische Ampelanlage,am Potsdamer Platz,"Verkehrsturm, Potsdamer Platz, Tiergarten, Mitte, Berlin, 10785, Germany",False
@@ -69,7 +69,7 @@ POINT (13.3554037 52.4884832),Spielplatz,im Gerhard-Schröder-Park,"52.48848, 1
 POINT (13.3777 52.5163137),Brandenburger Tor,,"52.51631, 13.3777",False
 POINT (13.4552132 52.5031919),Ritter Rudis Burgenland,auf dem Rudolfplatz,"Rudolfplatz, Rudolfkiez, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Germany",False
 POINT (13.374085 52.5185704),Platz der Republik,vor dem Reichstag,"Platz der Republik, Tiergarten, Mitte, Berlin, Germany",False
-POINT (13.3691772 52.5201621),Bundeskanzleramt,,"German Chancellery, 1, Willy-Brandt-Straße, Tiergarten, Mitte, Berlin, 10557, Germany",False
+POINT (13.3691772 52.5201621),Bundeskanzleramt,,"Federal Chancellery, 1, Willy-Brandt-Straße, Tiergarten, Mitte, Berlin, 10557, Germany",False
 POINT (13.3710967 52.5210557),Schweizerische Botschaft,,"Embassy of Switzerland, 4A, Otto-von-Bismarck-Allee, Tiergarten, Mitte, Berlin, 10557, Germany",False
 POINT (13.4094849 52.5123804),Australische Botschaft,,"52.51238, 13.40948",False
 POINT (13.3836162 52.5239091),Botschaft der Ukraine,,"52.5239, 13.38361",False
@@ -98,28 +98,28 @@ POINT (13.3954674 52.5239521),Monbijou-Brunnen,am Monbijoupark,"Monbijoupark, M
 POINT (13.3723085 52.5281808),Hamburger Bahnhof,,"Hamburger Bahnhof, 50-51, Invalidenstraße, Moabit, Mitte, Berlin, 10557, Germany",False
 POINT (13.302552 52.5172052),Luisenkirche,auf dem Gierkeplatz,"Gierkeplatz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10585, Germany",False
 POINT (13.454625 52.5250525),Spielplatz,im Hausburgpark,"Hausburgpark, Prenzlauer Berg, Pankow, Berlin, 10249, Germany",False
-POINT (13.4664235 52.5180154),Samariterkirche,,"Samariterkirche, Bänschstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Germany",False
+POINT (13.4664235 52.5180154),Samariterkirche,,"Samariterkirche, Samariterplatz, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Germany",False
 POINT (13.4611267 52.5228737),Hammelauktionshalle,im Blankensteinpark,"Blankensteinpark, Prenzlauer Berg, Pankow, Berlin, 10247, Germany",False
 POINT (13.4511011 52.5308133),Velodrom,,"Velodrom, Paul-Heyse-Straße, Blumenviertel, Prenzlauer Berg, Pankow, Berlin, 10407, Germany",False
 POINT (13.4191188 52.5427526),Platzhaus,auf dem Helmholtzplatz,"Helmholtzplatz, Helmholtzkiez, Prenzlauer Berg, Pankow, Berlin, 10437, Germany",False
 POINT (13.4044151 52.5461635),Walrosse,auf dem Falkplatz,"Falkplatz, Prenzlauer Berg, Pankow, Berlin, 10437, Germany",False
 POINT (13.3927464 52.5172924),Reiterstandbild Friedrichs des Großen,unter den Linden,"Frederick II of Prussia, Unter den Linden, Dorotheenstadt, Mitte, Berlin, 10117, Germany",False
 POINT (13.4086404 52.5182661),Rotes Rathaus,,"Red Townhall, 15, Rathausstraße, Friedrichswerder, Mitte, Berlin, 10178, Germany",False
-POINT (13.4068272 52.5196044),Neptunbrunnen,in der Nähe vom Alexanderplatz,"Neptunbrunnen, Spandauer Straße, Spandauer Vorstadt, Mitte, Berlin, 10178, Germany",False
+POINT (13.4068272 52.5196044),Neptunbrunnen,in der Nähe vom Alexanderplatz,"Neptunbrunnen, Spandauer Straße, Friedrichswerder, Mitte, Berlin, 10178, Germany",False
 POINT (13.4131031 52.5170215),Parochialkirche,,"Parochialkirche, 66-67, Klosterstraße, Mitte, Berlin, 10179, Germany",False
-POINT (13.4231539 52.5124578),Michaelbrücke,über der Spree,"Michaelbrücke, Michaelkirchstraße, Luisenstadt, Mitte, Berlin, 10179, Germany",False
+POINT (13.4231539 52.5124578),Michaelbrücke,über der Spree,"Michaelbrücke, Luisenstadt, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10179, Germany",False
 POINT (13.4132681 52.5211662),Weltzeituhr,auf dem Alexanderplatz,"World Clock, Dircksenstraße, Mitte, Berlin, 10178, Germany",False
 POINT (13.4292657 52.5092178),Schillingbrücke,über der Spree,"52.50921, 13.42926",False
 POINT (13.3380771 52.5195456),Hansabrücke,über der Spree,"52.51954, 13.33807",False
 POINT (13.4282486 52.5185134),Strausberger Platz,,"Schwebender Ring, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Germany",False
 POINT (13.4420928 52.5045506),Love Hate-Skulptur,auf dem Mercedes Platz,"Mercedes-Platz, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Germany",False
-POINT (13.4396359 52.5049881),East Side Gallery,,"East Side Gallery, Köpenicker Straße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Germany",False
+POINT (13.4396359 52.5049881),East Side Gallery,,East Side Gallery,False
 POINT (13.4600082 52.5196791),Wasserfontäne,auf dem Forckenbeckplatz,"Forckenbeckplatz, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Germany",False
 POINT (13.4527638 52.5165161),LOQI Tower,am Frankfurter Tor,"Frankfurter Tor, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Germany",False
 POINT (13.4498977 52.5168996),Kosmos,an der Karl-Marx-Allee,"52.51689, 13.44989",False
 POINT (13.4443927 52.5174803),Rosengarten,an der Karl-Marx-Allee,"52.51748, 13.44439",False
 POINT (13.3528157 52.5176428),Schloss Bellevue,,"Bellevue Palace, 1, Spreeweg, Tiergarten, Mitte, Berlin, 10557, Germany",False
-POINT (13.3476447 52.5173391),Sonnenuhr,beim Englischen Garten im Tiergarten,"Englischer Garten, Altonaer Straße, Hansaviertel, Tiergarten, Mitte, Berlin, 10557, Germany",False
+POINT (13.3476447 52.5173391),Sonnenuhr,beim Englischen Garten im Tiergarten,"Sonnenuhr, Altonaer Straße, Hansaviertel, Tiergarten, Mitte, Berlin, 10557, Germany",False
 POINT (13.4345652 52.5276276),Wasserglocke,im Volkspark Friedrichshain,"Volkspark Friedrichshain, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10249, Germany",False
 POINT (13.4176476 52.5285924),Skulptur,an der Kreuzung Prenzlauer Allee/Prenzlauer Berg,"52.52859, 13.41764",False
 POINT (13.4038228 52.5266984),Jacob-Teitel-Park,,"Jacob-Teitel-Park, Scheunenviertel, Mitte, Berlin, 10119, Germany",False
