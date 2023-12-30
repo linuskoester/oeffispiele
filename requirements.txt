@@ -2,3 +2,4 @@ prettymaps
 pillow
 reportlab
 pandas
+svglib
