@@ -1,5 +1,6 @@
 prettymaps
-pillow
 reportlab
 pandas
 svglib
+pypdf
+pdfrw
